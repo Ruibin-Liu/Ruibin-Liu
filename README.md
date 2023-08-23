@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently working on graph neural network and structural bioinformatics.
+- 👯 I’m looking to collaborate on scientific research and cool python web apps.
+- 🤔 I’m looking for help with graph neural network.
+- 💬 Ask me about computationl chemistry, cheminformatics, bioinformatics, machine learning, python, etc.
+- 📫 How to reach me: [twitter/X](https://twitter.com/ruibinliuphd)
 
 <!--
 **Ruibin-Liu/Ruibin-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
