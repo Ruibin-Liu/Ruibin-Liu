@@ -5,6 +5,8 @@
 - 💬 Ask me about computationl chemistry, cheminformatics, bioinformatics, machine learning, python, etc.
 - 📫 How to reach me: [twitter/X](https://twitter.com/ruibinliuphd)
 
+For scientific projects, please check [my Google Scholar page](https://scholar.google.com/citations?user=O0nbjlMAAAAJ&hl=en).
+
 <!--
 **Ruibin-Liu/Ruibin-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
